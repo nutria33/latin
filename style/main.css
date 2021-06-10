@@ -4,6 +4,7 @@ html {
 }
 
 body {margin:20px;
+	text-align: justify;
 }
 
 p {font-family: Georgia, serif;
@@ -40,6 +41,7 @@ h1 {font-family: Georgia, serif;
 	font-style: normal;
 	font-variant: normal;
 	text-transform: uppercase;
+	text-align: center;
 }
 
 li, ul, ol {font-family: Georgia, serif;
