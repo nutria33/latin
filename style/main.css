@@ -1,5 +1,6 @@
 html {
 	background-color: #f0df71;
+	line-height:1.5;
 }
 
 body {margin:20px;
@@ -35,6 +36,18 @@ h1 {font-family: Georgia, serif;
 	word-spacing: 2px;
 	color: #000000;
 	font-weight: 700;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+}
+
+li, ul, ol {font-family: Georgia, serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: 400;
 	text-decoration: none;
 	font-style: normal;
 	font-variant: normal;
